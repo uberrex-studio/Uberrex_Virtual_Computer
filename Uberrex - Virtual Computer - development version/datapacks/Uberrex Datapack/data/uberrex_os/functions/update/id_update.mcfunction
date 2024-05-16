@@ -1,0 +1,1 @@
+execute as @a[scores={ID_1=5}] run weather clear
